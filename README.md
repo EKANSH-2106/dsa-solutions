@@ -9,4 +9,4 @@ arrays/ · strings/ · linked-list/ · recursion/ · trees/ · graphs/ · dp/
 Each file starts with the problem name, a link, my approach, and time/space complexity.
 
 ## Languages
-Python, C++ (or whichever you use)
+Python
